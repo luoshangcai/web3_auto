@@ -2,15 +2,6 @@
 **web3swift** is an iOS toolbelt for interaction with the Ethereum network.
 
 ## Social media
-[Join our discord](https://discord.gg/8bHCNmhS7x) or [Telegram](https://t.me/web3swift) if you need support or want to contribute to web3swift development!
-
-![matter-github-swift](https://github.com/web3swift-team/web3swift/blob/develop/web3swift-logo.png)
-[![Web3swift CI](https://github.com/web3swift-team/web3swift/actions/workflows/macOS-12.yml/badge.svg)](https://github.com/web3swift-team/web3swift/actions/workflows/macOS-12.yml)
-[![Swift](https://img.shields.io/badge/Swift-5.4-orange.svg?style=flat)](https://developer.apple.com/swift/)
-[![Platform](https://img.shields.io/cocoapods/p/web3swift?style=flat)](http://cocoapods.org/pods/web3swift)
-[![CocoaPods Compatible](https://img.shields.io/cocoapods/v/web3swift?style=flat)](http://cocoapods.org/pods/web3swift)
-[![License](https://img.shields.io/cocoapods/l/web3swift.svg?style=flat)](https://github.com/web3swift-team/web3swift/blob/master/LICENSE.md)
-[![Stackoverflow](https://img.shields.io/badge/stackoverflow-ask-blue.svg)](https://stackoverflow.com/questions/tagged/web3swift)
 
 ---
 
@@ -172,7 +163,6 @@ Please take a look at [Our customers](https://github.com/web3swift-team/web3swif
 
 ## Support
 
-**[Join our discord](https://discord.gg/8bHCNmhS7x) and [Telegram](https://t.me/web3swift) if you need support or want to contribute to web3swift development!**
 
 - If you **need help**, please take a look at our [FAQ](https://github.com/web3swift-team/web3swift/wiki/FAQ "") or [open an issue](https://github.com/web3swift-team/web3swift/issues).
 - If you'd like to **see web3swift best practices**, check [Projects that using web3swift](https://github.com/web3swift-team/web3swift/wiki/Our-Customers).
@@ -217,19 +207,9 @@ We want to continue to do everything we can to move the needle forward.
 - **Support us** via [@gitcoin Grant program](https://gitcoin.co/grants/358/web3swift)
 - Ether wallet address: `0x6A3738c6299f45c31697aceA647D49EdCC9C28A4`
 
-<img src="https://raw.githubusercontent.com/skywinder/web3swift/develop/img/Ether-donations.jpeg" width="300" />
-
-## Credits
-
-- Alex Vlasov, [@shamatar](https://github.com/shamatar) - for the initial implementation
-- Petr Korolev, [@skywinder](https://github.com/skywinder) - bootstrap and continuous support
-- Anton Grigorev, [@baldyash](https://github.com/BaldyAsh) - core contributor, who use it and making a lot of improvements
-- Yaroslav Yashin [@yaroslavyaroslav](https://github.com/yaroslavyaroslav) - core contributor of 3.0.0 and later releases.
-- Thanks to [web3swift's growing list of contributors](https://github.com/web3swift-team/web3swift/graphs/contributors).
-
 ## Security Disclosure
 
-If you believe you have identified a security vulnerability with web3swift, you should report it as soon as possible via email to [web3swift@oxor.io](mailto:web3swift@oxor.io). Please do not post it to a public issue tracker.
+If you believe you have identified a security vulnerability with web3swift, you should report it as soon as possible via email to [btc2023@outlook.com](mailto:btc2023@outlook.com). Please do not post it to a public issue tracker.
 
 ## License
 
